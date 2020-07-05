@@ -1,0 +1,18 @@
+.pantalla{
+    height: 100vh;
+}
+.foto-nino{
+    max-width: 380px;
+}
+
+.scratch {
+    max-height: 100px;
+}
+
+.comprension-img {
+    min-height: 200px;
+}
+
+.series-img {
+    max-height: 300px;
+}
